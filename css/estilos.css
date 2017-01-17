@@ -107,6 +107,7 @@ img{
 #imgsecizq{
   float: left;
   width: 100%;
+  transition: transform 1.5s;
 }
 
 #imgsecizq:hover{
@@ -118,6 +119,7 @@ img{
 #imgsecdere{
   float: right;
   width: 100%;
+  transition: transform 1.5s;
 }
 
 #imgsecdere:hover{
